@@ -9,16 +9,16 @@ Image created with generative AI.
 Following components are part of the JanusHub platform:
 
 ## JanusHub Core
-The JanusHub Core is the main component of the JanusHub platform. It provides the core functionality and services that power the platform. The core is responsible for hosting shared services around development, security and operations.
+The JanusHub Core is the main component of the JanusHub platform. It provides the core functionalities that power the platform. The core is responsible for hosting shared services around development, security and operations. It provides templates, blueprints and boilerplates for landing zones, applications and services. The core is also responsible for storing and managing the CMBD (configuration management database) of the enterire platform.
 
 ## JanusHub DEV (IDP)
 The JanusHub DEV / IDP (Internal Developer Platform) is a set of tools and services that enable developers to build, test, and deploy applications quickly and efficiently. The IDP provides a unified interface for managing the entire development lifecycle, from code commit to production deployment.
 
 ## JanusHub SEC (IAM)
-JanusHub SEC / IAM (Identity and Access Management) is a set of tools and services that enable organizations to manage user identities and access to resources. The IAM provides a unified interface for managing user accounts, roles, and permissions across the entire platform.
+JanusHub SEC / IAM (Identity and Access Management) is a set of tools and services that enable organizations to manage user identities, groups and access to resources. The IAM provides a unified interface for managing user accounts, roles, and permissions across the entire platform.
 
 ## JanusHub OPS (ITS)
-JanusHub OPS / ITS (IT Service) is a set of tools and services that enable organizations to monitor and manage the performance and availability of their applications. The ITS provides a unified interface for managing application performance, availability, and security across the entire platform.
+JanusHub OPS / ITS (IT Service) is a set of tools and services that enable organizations to monitor and manage the performance and availability of their applications and services. The ITS provides a unified interface for managing application performance, availability, and security across the entire platform.
 
 ## JanusHub AI (Agentic AI)
 JanusHub AI is a set of tools and services that enable organizations to leverage the power of artificial intelligence (Agentic AI) in their applications TDLC.
