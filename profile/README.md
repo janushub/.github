@@ -17,3 +17,6 @@ JanusHub SEC / IAM (Identity and Access Management) is a set of tools and servic
 
 ## JanusHub OPS (ITS)
 JanusHub OPS / ITS (IT Service) is a set of tools and services that enable organizations to monitor and manage the performance and availability of their applications. The ITS provides a unified interface for managing application performance, availability, and security across the entire platform.
+
+## JanusHub AI (Agentic AI)
+JanusHub AI is a set of tools and services that enable organizations to leverage the power of artificial intelligence (Agentic AI) in their applications TDLC.
