@@ -4,6 +4,8 @@ The target of JanusHub is to provide a platform as a digital core of enterprises
 
 <img src="./janushub.jpeg" alt="JanusHub Logo" width="300" height="300"/>
 
+Image created with generative AI.
+
 Following components are part of the JanusHub platform:
 
 ## JanusHub Core
